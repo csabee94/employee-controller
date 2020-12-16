@@ -1,0 +1,14 @@
+body {
+	background-color: rgb(251, 251, 251);
+}
+
+#datatable {
+	table-layout: fixed;
+	display: none;
+	width: 100%;
+}
+
+h3{
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
